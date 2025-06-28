@@ -7,17 +7,17 @@ LogHunter is a Python-based tool designed to detect suspicious events in log fil
 
 ### Features
 - Failed login Detection: Identifies IP addresses with multiple failed  SSH login attempts
-- Successful Login Tracking:Detects successful logins from previously unseen IPs
+- Successful Login Tracking: Detects successful logins from previously unseen IPs
 - New User Alerts -  Flags lines suggesting creation of new user accounts
 
 ---
 
 ## How it works
-The Python script parses your auth.log file line-by-line and usesregular expressions to extract:
+The Python script parses your auth.log file line-by-line and uses regular expressions to extract:
 - IP addresses attempting logins
 - Indicators of failed/successful login attempts
 - User creation events (useradd,  new user)
-All findings are output in a formatted and easy to read anomoly report
+- All findings are output in a formatted and easy to read anomoly report
 
 --- 
 

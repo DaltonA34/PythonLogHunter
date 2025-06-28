@@ -2,7 +2,7 @@
 
 --- 
 
-##Overview
+## Overview
 LogHunter is a Python-based tool designed to detect suspicious events in log files, such as brute-force attempts, unauthorized logins, and potential user privilege changes. This project was built to simulate real-world SOC analyst responsibilities using Python scripting and log analysis.
 
 ### Features

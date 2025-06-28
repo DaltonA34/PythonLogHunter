@@ -42,8 +42,8 @@ The Python script parses your auth.log file line-by-line and uses regular expres
 ---
 
 ## Author
-Dalton Armstrong
-Cybersecurity Major | Christopher Newport University
+- Dalton Armstrong
+- Cybersecurity Major | Christopher Newport University
 
 
 

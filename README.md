@@ -37,7 +37,7 @@ The Python script parses your auth.log file line-by-line and uses regular expres
 ## Future Improvements
 - Export report to a text  or HTML file
 - Add CLI flags for custom log paths and thresholds
-- Add detection for brute for patterns across time
+- Add detection for brute force patterns across time
 
 ---
 
